@@ -1,3 +1,3 @@
-# Data Science for Kinesiology (Student)
+# KIN 482E - Programming and Data Science for Kinesiology
 
-This site hosts all student materials for the UBC course **KIN 482E - Programming and Data Science for Kinesiology**. 
+Copy syllabus over. 
