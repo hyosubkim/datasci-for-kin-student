@@ -1,5 +1,3 @@
-<img src="9_2016_1UnitStandard_SchoolKin_Blue282RGB300.png">
-
 # Syllabus
 
 ## Basic Course Information
@@ -91,11 +89,9 @@ We will also drop your lowest score from Assignments 2-6 when calculating your f
 Each week, there will be a tutorial/lab notebook that must be completed, typically before the start of the next week (exact dates will be posted to Canvas). Follow the same steps as you would for a problem set in order to access the tutorial and submit your completed version to Canvas. Tutorial notebooks must also run from top to bottom without any errors to receive any credit.
 
 ### DataCamp (5%)
-In this course, we will leverage the significant resources that [DataCamp](https://datacamp.com), a massive open online course (MOOC) platform for data science education, can provide. The teaching team will add all students registered in this class to the class DataCamp "group", using the email address you provide to us\*. You will receive an invitation email from DataCamp with a link that will allow you to set a password. Once you have logged in for the first time, you will see a window like the one below, listing your active assignments; click on "DUE BY" to sort them by due date (which also indicates the sequence you should complete the assignments in). On the right, there is a trophy icon to see the leaderboard. This is a DataCamp-specific feature that tracks all students' progress, but it has no bearing on your grade---so keep the competition friendly! 
+In this course, we will leverage the significant resources that [DataCamp](https://datacamp.com), a massive open online course (MOOC) platform for data science education, can provide. The teaching team will add all students registered in this class to the class DataCamp "group", using the email address you provide to us\*. You will receive an invitation email from DataCamp with a link that will allow you to set a password. Once you have logged in for the first time, you can click on "Learn > Assignments", which will take you to a list of your active assignments; click on "DUE BY" to sort them by due date (which also indicates the sequence you should complete the assignments in). On the right, there is a trophy icon to see the leaderboard. This is a DataCamp-specific feature that tracks all students' progress, but it has no bearing on your grade---so keep the competition friendly! 
 
 \**DataCamp is a US-based company and the data they collect are stored in the US. Although you do not have to provide them any information besides an email address, if you still have privacy concerns, you may wish to create an email account specifically for this service that is not tied to your UBC identity.*
-
-<img src="datacamp_assignments.png">
 
 Each DataCamp assignment has a due date, which conveys when you need to have covered that material in order to keep up with the work in KIN 482. Each one has an estimated duration that you'll see when you start it, and these seem fairly accurate. DataCamp will remember your progress, so you don't have to complete an assignment all in one sitting. You can work in smaller or larger chunks at your preference, log off, and log back on to resume the course later. Note that with DataCamp you have as many opportunities as you need to provide the correct solution. This part of your grade is essentially making sure you are practicing the skills you need to succeed in the course and write functional code.
 
