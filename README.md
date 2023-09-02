@@ -15,7 +15,7 @@ Learn how to write code and use data science tools for processing, analyzing, an
 We will be using an open-source textbook available for free on the Web: https://hyosubkim.github.io/datasci-for-kin/intro.html.
 
 ## Hardware & Software 
-Students are required to bring a laptop to both lectures and tutorials. Students who do not own a laptop may be able to [loan a laptop from the UBC library](https://services.library.ubc.ca/computers-technology/technology-borrowing/).
+Students are required to bring a laptop to both lectures and tutorials. Students who do not own a laptop may be able to [borrow a laptop from the UBC library](https://services.library.ubc.ca/computers-technology/technology-borrowing/).
 
 All other required software will be provided by the instructors. Students will learn to perform their analysis using the [Python programming language](https://www.python.org/). Tutorials and assignments/problem sets will be completed using [Jupyter Notebooks](http://jupyter.org/) accessed via [UBC's JupyterHub](https://open.jupyter.ubc.ca/jupyter/).
 
