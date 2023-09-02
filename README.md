@@ -49,17 +49,13 @@ By the end of the course, you will be able to:
 
 ## Comunication
 We are here to guide and instruct you, and you will be best served by being engaged in class and engaging your teaching team in person. The best time to ask questions is during class time. Regarding questions that come up outside of class time, please follow these steps prior to requesting an appointment or emailing the instructor:
-    - Check the syllabus
-    - Check the course materials, including the textbook and your notes
-    - Check the course [Canvas page](https://canvas.ubc.ca/courses/124902)
-    - Ask your classmates 
+- Check the syllabus
+- Check the course materials, including the textbook and your notes
+- Check the course [Canvas page](https://canvas.ubc.ca/courses/124902)
+- Ask your classmates, including by posting questions to each other on the Discussions page on Canvas. Ideally, this can serve as an additional platform for you to help, and learn from, each other. Your teaching team may occasionally check the boards, but do not expect feedback over Canvas (i.e., these discussions are for you, the students).  
     
-Due to the difficulties in aligning everyone's schedules, there are no formal office hours. However, if you still have questions after following the steps outlined above, please speak to me about scheduling a meeting. 
-
-Be advised that I will not answer course content-related questions over email. That is, I will not be explaining concepts, helping with assignments, or doing any teaching over email. That being said, do email me if you have a private matter you need to discuss. 
-
-You may post questions to each other on the Discussions page on Canvas. Ideally, this can serve as an additional platform for you to help, and learn from, each other. Your teaching team may occasionally check the boards, but do not expect feedback over Canvas (i.e., these discussions are for you, the students). 
-
+Due to the difficulties in aligning everyone's schedules, there are no formal office hours; however, if you still have questions after following the steps outlined above, please contact me, and we can schedule a meeting. Please be advised that I will not do any teaching over email, and if the answer to your question can be readily found through one of the steps outlined above, it is unlikely that you will receive a direct reply to your message. 
+ 
 ## Course Format
 This course will generally follow a schedule of one lecture, one tutorial/lab per week. One thing that you may find different about the course format is that we will employ a **flipped classroom** approach for > 50% of the time. This means that class time, even during "lecture" days, is not used primarily for conveying information, the way a normal lecture-based class operates. Rather, there will be mini-lectures at the start of class that highlight key concepts, and the remaining time will be used for practicing the new coding skills you will be learning. This has been shown to be a highly effective way to teach beginners how to program (see [here](https://onlinelibrary.wiley.com/doi/full/10.1002/cae.22447)). The lecture days will generally have more lecture content than tutorial days, which are mostly devoted to continued application of the skill/concept taught during the Monday lecture. Therefore, there is a strong emphasis placed on being prepared for each class session, usually through staying on top of readings and assignments, as well as keeping track of questions that arise and asking them **during class**. Class time is an opportunity for students to discuss the course material, practice their skills, and ask questions to the teaching team and each other. **Remember that coding is a skill, and like any skill, it requires significant practice within and outside of class.** 
 
