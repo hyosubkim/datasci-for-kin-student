@@ -157,7 +157,7 @@ UBC provides resources to support student learning and to maintain healthy lifes
 Details of the policies and how to access support are available on the [UBC Senate website](https://senate.ubc.ca/policies-resources-support-student-success/).
 
 ## Land Acknowledgment
-UBC's Vancouver Campus is located on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) people.The land it is situated on has always been a place of learning for the Musqueam people, who for millennia have passed on their culture, history, and traditions from one generation to the next on this site.
+UBC's Vancouver Campus is located on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) people. The land it is situated on has always been a place of learning for the Musqueam people, who for millennia have passed on their culture, history, and traditions from one generation to the next on this site.
 
 To learn more about the relationship between the Musqueam people and UBC, you may find this [webpage](https://indigenous.ubc.ca/indigenous-engagement/musqueam-and-ubc/) helpful. 
 
